@@ -17,7 +17,7 @@ const Navbar = () => {
     { name: "Awards", href: "#awards" },
     { name: "Location", href: "#location" },
     { name: "Coordinators", href: "#coordinators" },
-    { name: "Guidelines", href: "#", icon: FileText },
+    // { name: "Guidelines", href: "#", icon: FileText },
   ]
 
   useEffect(() => {
