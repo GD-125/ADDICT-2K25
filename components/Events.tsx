@@ -37,7 +37,7 @@ const events = [
       { name: "Dhanush Kumar S IV-CSE", phone: "+91 63811 63281" },
       { name: "Aravind Kumar S III-CSE", phone: "+91 96773 15512" },
       { name: "Swathi T III-IT", phone: "+91 95146 92989" },
-      { name: "Vigneshwaran S III-AI&DS", phone: "+91 807322364" },
+      { name: "Vigneshwaran S III-AI&DS", phone: "+91 63743 26488" },
     ],
   },
   {
