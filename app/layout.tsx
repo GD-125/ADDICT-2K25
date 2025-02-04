@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
 import dynamic from "next/dynamic"
+import { Analytics } from "@vercel/analytics/react"
 
 const Snow = dynamic(() => import("@/components/Snow"), { ssr: false })
 import type React from "react" // Added import for React
@@ -23,6 +24,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <Snow />
         {children}
+        <Analytics />
       </body>
     </html>
   )
