@@ -24,7 +24,7 @@ const events = [
     coordinators: [
       { name: "Abdul Nazeer M IV-CSE", phone: "+91 75581 28290" },
       { name: "Santhosh Kumar P III-CSE", phone: "+91 98439 30292" },
-      { name: "Girija L III-IT", phone: "+1234567890" },
+      { name: "Girija L III-IT", phone: "+91 94895 17739" },
       { name: "Aishwarya S III-AI&DS", phone: "+91 63747 27189" },
     ],
   },
@@ -36,7 +36,7 @@ const events = [
     coordinators: [
       { name: "Dhanush Kumar S IV-CSE", phone: "+91 63811 63281" },
       { name: "Aravind Kumar S III-CSE", phone: "+91 96773 15512" },
-      { name: "Swathi T III-IT", phone: "+1234567890" },
+      { name: "Swathi T III-IT", phone: "+91 95146 92989" },
       { name: "Vigneshwaran S III-AI&DS", phone: "+91 807322364" },
     ],
   },
@@ -48,7 +48,7 @@ const events = [
     coordinators: [
       { name: "Sivaranjani N IV-CSE", phone: "+91 95008 61322" },
       { name: "Mohammed Faizal III-CSE", phone: "+91 93426 32679" },
-      { name: "Janani B III-IT", phone: "+1234567890" },
+      { name: "Janani B III-IT", phone: "+91 82484 95713" },
       { name: "Akshaykeerthi A V III-AI&DS", phone: "+91 63820 14361" },
     ],
   },
@@ -59,9 +59,9 @@ const events = [
     location: "Smart Class, 1st Floor, CSE Block",
     coordinators: [
       { name: "Ragavendran K IV-CSE", phone: "+91 76048 10145" },
-      { name: "Mohammed Safiq III-CSE", phone: "+1000111222" },
+      { name: "Mohammed Safiq III-CSE", phone: "+91 97883 24653" },
       { name: "Harthika III-IT", phone: "+91 63697 76459" },
-      { name: "Dhana Shankar P S III-AI&DS", phone: "+1234567890" },
+      { name: "Dhana Shankar P S III-AI&DS", phone: "+91 82488 33241" },
     ],
   },
 ]
