@@ -13,7 +13,7 @@ const Hero = () => {
             P.A. College of Engineering and Technology, Pollachi
           </h2>
         </div>
-        <p className="text-xl mb-4 animate-fade-in-up">Organized by Dept. of CSE, IT, AI&DS</p>
+        <p className="text-xl mb-4 animate-fade-in-up"> Dept. of CSE, IT, AI&DS organizes </p>
         <h1 className="text-5xl md:text-6xl font-bold mb-4 relative">
           <span className="relative inline-block animate-float-slow">
             <span className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-purple-500 to-blue-500 opacity-50 blur-lg filter"></span>
