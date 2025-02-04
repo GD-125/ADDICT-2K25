@@ -14,10 +14,10 @@ const Footer = () => {
           </div>
           <div className="flex space-x-4">
             {[
-              { icon: Facebook, href: "#" },
+              { icon: Facebook, href: "https://www.facebook.com/groups/pacetpollachi/" },
               { icon: Twitter, href: "#" },
               { icon: Instagram, href: "#" },
-              { icon: Linkedin, href: "#" },
+              { icon: Linkedin, href: "https://www.linkedin.com/company/p-a-college-of-engineering-and-technology-coimbatore" },
             ].map((social, index) => (
               <a key={index} href={social.href} className="relative group">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full opacity-0 group-hover:opacity-100 transition duration-500 blur"></div>
