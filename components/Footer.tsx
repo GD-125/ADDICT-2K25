@@ -16,7 +16,7 @@ const Footer = () => {
             {[
               { icon: Facebook, href: "https://www.facebook.com/groups/pacetpollachi/" },
               { icon: Twitter, href: "#" },
-              { icon: Instagram, href: "#" },
+              { icon: Instagram, href: "https://www.instagram.com/pacet_diaries/" },
               { icon: Linkedin, href: "https://www.linkedin.com/company/p-a-college-of-engineering-and-technology-coimbatore" },
             ].map((social, index) => (
               <a key={index} href={social.href} className="relative group">
