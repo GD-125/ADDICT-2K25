@@ -10,10 +10,10 @@ const events = [
     guidelineUrl: "/guidelines/paper_presentation.pdf",
     location: "Main Block Seminar Hall , Ground Floor, Main Block",
     coordinators: [
-      { name: "Ramya S IV-CSE", phone: "+91 87541 48744" },
-      { name: "Kiran J III-CSE", phone: "+91 93428 82581" },
-      { name: "kavibharathi P III-IT", phone: "+91 76048 70541" },
-      { name: "Yashika P III-AI&DS", phone: "+91 75399 85465" },
+      { name: "Ramya S, IV-CSE", phone: "+91 87541 48744" },
+      { name: "Kiran J, III-CSE", phone: "+91 93428 82581" },
+      { name: "kavibharathi P, III-IT", phone: "+91 76048 70541" },
+      { name: "Yashika P, III-AI&DS", phone: "+91 75399 85465" },
     ],
   },
   {
@@ -22,10 +22,10 @@ const events = [
     guidelineUrl: "/guidelines/project_contest.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
     coordinators: [
-      { name: "Abdul Nazeer M IV-CSE", phone: "+91 75581 28290" },
-      { name: "Santhosh Kumar P III-CSE", phone: "+91 98439 30292" },
-      { name: "Girija L III-IT", phone: "+91 94895 17739" },
-      { name: "Aishwarya S III-AI&DS", phone: "+91 63747 27189" },
+      { name: "Abdul Nazeer M, IV-CSE", phone: "+91 75581 28290" },
+      { name: "Santhosh Kumar P, III-CSE", phone: "+91 98439 30292" },
+      { name: "Girija L, III-IT", phone: "+91 94895 17739" },
+      { name: "Aishwarya S, III-AI&DS", phone: "+91 63747 27189" },
     ],
   },
   {
@@ -34,10 +34,10 @@ const events = [
     guidelineUrl: "/guidelines/code_debugging.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
     coordinators: [
-      { name: "Dhanush Kumar S IV-CSE", phone: "+91 63811 63281" },
-      { name: "Aravind Kumar S III-CSE", phone: "+91 96773 15512" },
-      { name: "Swathi T III-IT", phone: "+91 95146 92989" },
-      { name: "Vigneshwaran S III-AI&DS", phone: "+91 63743 26488" },
+      { name: "Dhanush Kumar S, IV-CSE", phone: "+91 63811 63281" },
+      { name: "Aravind Kumar S, III-CSE", phone: "+91 96773 15512" },
+      { name: "Swathi T, III-IT", phone: "+91 95146 92989" },
+      { name: "Vigneshwaran S, III-AI&DS", phone: "+91 63743 26488" },
     ],
   },
   {
@@ -46,10 +46,10 @@ const events = [
     guidelineUrl: "/guidelines/quiz.pdf",
     location: "IT Lab, 3rd Floor, IT Block",
     coordinators: [
-      { name: "Sivaranjani N IV-CSE", phone: "+91 95008 61322" },
-      { name: "Mohammed Faizal III-CSE", phone: "+91 93426 32679" },
-      { name: "Janani B III-IT", phone: "+91 82484 95713" },
-      { name: "Akshaykeerthi A V III-AI&DS", phone: "+91 63820 14361" },
+      { name: "Sivaranjani N, IV-CSE", phone: "+91 95008 61322" },
+      { name: "Mohammed Faizal, III-CSE", phone: "+91 93426 32679" },
+      { name: "Janani B, III-IT", phone: "+91 82484 95713" },
+      { name: "Akshaykeerthi A V, III-AI&DS", phone: "+91 63820 14361" },
     ],
   },
   {
@@ -58,10 +58,10 @@ const events = [
     guidelineUrl: "/guidelines/poster_design.pdf",
     location: "Smart Class, 1st Floor, CSE Block",
     coordinators: [
-      { name: "Ragavendran K IV-CSE", phone: "+91 76048 10145" },
-      { name: "Mohammed Safiq III-CSE", phone: "+91 97883 24653" },
-      { name: "Harthika III-IT", phone: "+91 63697 76459" },
-      { name: "Dhana Shankar P S III-AI&DS", phone: "+91 82488 33241" },
+      { name: "Ragavendran K, IV-CSE", phone: "+91 76048 10145" },
+      { name: "Mohammed Safiq, III-CSE", phone: "+91 97883 24653" },
+      { name: "Harthika N,III-IT", phone: "+91 63697 76459" },
+      { name: "Dhana Shankar P S, III-AI&DS", phone: "+91 82488 33241" },
     ],
   },
 ]
