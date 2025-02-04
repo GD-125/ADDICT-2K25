@@ -21,7 +21,7 @@ const Location = () => {
               Tamil Nadu
             </p>
             <p className="text-gray-300 text-center mt-4">
-              <span className="font-semibold">Date:</span> March 15, 2025
+              <span className="font-semibold">Date:</span> February 27, 2025
               <br />
               <span className="font-semibold">Time:</span> 9:00 AM - 5:00 PM
             </p>
