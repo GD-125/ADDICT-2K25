@@ -13,7 +13,7 @@ const Awards = () => {
           <div className="bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-lg p-8 flex flex-col items-center transform transition duration-500 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/50 animate-float">
             <Trophy size={64} className="mb-4 text-yellow-400 animate-bounce" />
             <h3 className="text-3xl font-semibold mb-2 text-purple-300">Prize Pool</h3>
-            <p className="text-5xl font-bold text-yellow-400 animate-pulse">₹1,00,000</p>
+            <p className="text-5xl font-bold text-yellow-400 animate-pulse">₹50,000</p>
             <div className="mt-4 text-center">
               <p className="text-gray-300">Exciting prizes await the winners!</p>
               <p className="text-gray-300">Don't miss your chance to win big!</p>
