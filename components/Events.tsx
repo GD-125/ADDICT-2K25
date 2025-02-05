@@ -47,7 +47,7 @@ const events = [
     location: "IT Lab, 3rd Floor, IT Block",
     coordinators: [
       { name: "Sivaranjani N, IV-CSE", phone: "+91 95008 61322" },
-      { name: "Mohammed Faizal, III-CSE", phone: "+91 93426 32679" },
+      { name: "Mohammed Faizal M, III-CSE", phone: "+91 93426 32679" },
       { name: "Janani B, III-IT", phone: "+91 82484 95713" },
       { name: "Akshaykeerthi A V, III-AI&DS", phone: "+91 63820 14361" },
     ],
@@ -59,7 +59,7 @@ const events = [
     location: "Smart Class, 1st Floor, CSE Block",
     coordinators: [
       { name: "Ragavendran K, IV-CSE", phone: "+91 76048 10145" },
-      { name: "Mohammed Safiq, III-CSE", phone: "+91 97883 24653" },
+      { name: "Mohammed Safiq J, III-CSE", phone: "+91 97883 24653" },
       { name: "Harthika N,III-IT", phone: "+91 63697 76459" },
       { name: "Dhana Shankar P S, III-AI&DS", phone: "+91 82488 33241" },
     ],
