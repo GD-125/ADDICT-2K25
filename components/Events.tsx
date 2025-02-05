@@ -5,7 +5,8 @@ import Link from "next/link"
 
 const events = [
   {
-    name: "Paper Presentation",
+    name: "Techie Talky",
+    name: "(Paper Presentation)",
     icon: FileText,
     guidelineUrl: "/guidelines/paper_presentation.pdf",
     location: "Main Block Seminar Hall , Ground Floor, Main Block",
@@ -17,7 +18,8 @@ const events = [
     ],
   },
   {
-    name: "Project Contest",
+    name: "Project Pitch",
+    name: "(Project Contest)",
     icon: Lightbulb,
     guidelineUrl: "/guidelines/project_contest.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
@@ -29,7 +31,8 @@ const events = [
     ],
   },
   {
-    name: "Code Debugging",
+    name: "Blind Coding",
+    name: "(Code Debugging)",
     icon: Code,
     guidelineUrl: "/guidelines/code_debugging.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
@@ -41,7 +44,8 @@ const events = [
     ],
   },
   {
-    name: "Quiz",
+    name: "Data Fobia",
+    name: "(Quiz)",
     icon: Puzzle,
     guidelineUrl: "/guidelines/quiz.pdf",
     location: "IT Lab, 3rd Floor, IT Block",
@@ -53,7 +57,8 @@ const events = [
     ],
   },
   {
-    name: "Poster Design",
+    name: "Adzap",
+    name: "(Poster Design)",
     icon: PenTool,
     guidelineUrl: "/guidelines/poster_design.pdf",
     location: "Smart Class, 1st Floor, CSE Block",
