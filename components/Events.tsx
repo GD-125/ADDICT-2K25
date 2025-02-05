@@ -60,7 +60,7 @@ const events = [
     coordinators: [
       { name: "Ragavendran K, IV-CSE", phone: "+91 76048 10145" },
       { name: "Mohammed Safiq J, III-CSE", phone: "+91 97883 24653" },
-      { name: "Harthika N,III-IT", phone: "+91 63697 76459" },
+      { name: "Harthika N, III-IT", phone: "+91 63697 76459" },
       { name: "Dhana Shankar P S, III-AI&DS", phone: "+91 82488 33241" },
     ],
   },
