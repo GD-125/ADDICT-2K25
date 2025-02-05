@@ -44,7 +44,7 @@ const events = [
     ],
   },
   {
-    name: "Data Fobia",
+    name: "Data Phobia",
     // name: "(Quiz)",
     icon: Puzzle,
     guidelineUrl: "/guidelines/quiz.pdf",
