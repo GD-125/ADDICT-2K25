@@ -2,7 +2,7 @@ import { Phone, MessageCircle } from "lucide-react"
 
 const coordinators = [
   { name: "Kanakaraj M", role: "Secretary, CSE", phone: "919865850899" },
-  { name: "Ragavandran K", role: "Event Coordinator Head, CSE", phone: "917604810145" },
+  { name: "Ragavendran K", role: "Event Coordinator Head, CSE", phone: "917604810145" },
   { name: "Gayathri D", role: "Secretary, IT", phone: "919025684725" },
   { name: "Manosakthi T", role: "Secretary, AI&DS", phone: "919361043465" },
 ]
