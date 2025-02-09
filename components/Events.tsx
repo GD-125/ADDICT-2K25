@@ -9,7 +9,7 @@ const events = [
     icon: FileText,
     guidelineUrl: "/guidelines/paper_presentation.pdf",
     location: "Main Block Seminar Hall , Ground Floor, Main Block",
-    values: "Papaer Presentation",
+    values: "Paper Presentation",
     coordinators: [
       { name: "Ramya S, IV-CSE", phone: "+91 87541 48744" },
       { name: "Kiran J, III-CSE", phone: "+91 93428 82581" },
