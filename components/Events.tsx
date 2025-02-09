@@ -6,10 +6,10 @@ import Link from "next/link"
 const events = [
   {
     name: "Techie Talky",
-    // name: "(Paper Presentation)",
     icon: FileText,
     guidelineUrl: "/guidelines/paper_presentation.pdf",
     location: "Main Block Seminar Hall , Ground Floor, Main Block",
+    values: "Papaer Presentation",
     coordinators: [
       { name: "Ramya S, IV-CSE", phone: "+91 87541 48744" },
       { name: "Kiran J, III-CSE", phone: "+91 93428 82581" },
@@ -19,10 +19,10 @@ const events = [
   },
   {
     name: "Project Pitch",
-    // name: "(Project Contest)",
     icon: Lightbulb,
     guidelineUrl: "/guidelines/project_contest.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
+    values: "Project Presentation",
     coordinators: [
       { name: "Abdul Nazeer M, IV-CSE", phone: "+91 75581 28290" },
       { name: "Santhosh Kumar P, III-CSE", phone: "+91 98439 30292" },
@@ -32,10 +32,10 @@ const events = [
   },
   {
     name: "Blind Coding",
-    // name: "(Code Debugging)",
     icon: Code,
     guidelineUrl: "/guidelines/code_debugging.pdf",
     location: "CSE Lab, 2nd Floor, CSE Block",
+    values: "Code Debugging",
     coordinators: [
       { name: "Dhanush Kumar S, IV-CSE", phone: "+91 63811 63281" },
       { name: "Aravind Kumar S, III-CSE", phone: "+91 96773 15512" },
@@ -45,10 +45,10 @@ const events = [
   },
   {
     name: "Data Phobia",
-    // name: "(Quiz)",
     icon: Puzzle,
     guidelineUrl: "/guidelines/quiz.pdf",
     location: "IT Lab, 3rd Floor, IT Block",
+    values: "Quiz",
     coordinators: [
       { name: "Sivaranjani N, IV-CSE", phone: "+91 95008 61322" },
       { name: "Mohammed Faizal M, III-CSE", phone: "+91 93426 32679" },
@@ -58,10 +58,10 @@ const events = [
   },
   {
     name: "Adzap",
-    // name: "(Poster Design)",
     icon: PenTool,
     guidelineUrl: "/guidelines/poster_design.pdf",
     location: "Smart Class, 1st Floor, CSE Block",
+    values: "Poster Design",
     coordinators: [
       { name: "Ragavendran K, IV-CSE", phone: "+91 76048 10145" },
       { name: "Mohammed Safiq J, III-CSE", phone: "+91 97883 24653" },
@@ -85,6 +85,7 @@ const Events = () => {
             >
               <event.icon size={48} className="mb-4 text-purple-500 animate-bounce" />
               <h3 className="text-xl font-semibold mb-2">{event.name}</h3>
+              <p className="text-lg font-medium text-purple-300 mb-2 text-center">({event.values})</p>
               <p className="text-gray-300 text-center mb-4">
                 Showcase your skills in {event.name.toLowerCase()} and win exciting prizes!
               </p>
